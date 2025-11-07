@@ -1,0 +1,3 @@
+generare un form dove chiedo 5 numeri
+
+la pagina php dovrà restituire la media dei numeri inseriti

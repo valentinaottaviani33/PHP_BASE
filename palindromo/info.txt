@@ -1,0 +1,6 @@
+palindromo è una parola con questo costrutto :
+
+anna - otto - osso - esse (parole con lettere che non cambiano)
+
+Anna NON è palindromo (utilizzo la maiuscola " A =/ a ")
+ottO NON è palindromo (utilizzo la maiuscola " o =/ O ")

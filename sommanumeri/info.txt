@@ -1,0 +1,12 @@
+codice php che mostra a schermo la somma dei numeri di un array 
+array di numeri
+somma a 0
+
+ciclo for per array
+
+sommare i numeri aggiungendo la somma per ogni ciclo
+
+echo
+
+
+chiedo un numero all'utente e voglio vedere a schermo la tabellina sino al valore 10 di questo numero
