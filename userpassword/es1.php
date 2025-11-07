@@ -8,7 +8,7 @@ if(isset($_POST['username'], $_POST['password'])){
     //salvo la password inserita
     $password = $_POST ['password'];
 
-    //queste sono le credenziali che servono per accedere (hardcoded)
+    //queste sono le credenziali che servono per accedere (hardcoded, ovvero che inserisco i dati all'interno del codice)
     $user_valido = "admin";
     $password_valida = "12345";
 

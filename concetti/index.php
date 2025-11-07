@@ -127,7 +127,7 @@
 
     $nomi = ["Pippo", "Paperino", "Pluto"];
 
-    foreach($nomi as $nome){
+    foreach($nomi as $nome){ //nome che gira all'interno di nomi
 
         echo "$nome <br>";
     }
@@ -144,7 +144,7 @@
         return "Ciao, $nome";
     }
 
-    echo saluta(" diego ");//passo il valore di $nome all'interno della funzione
+    echo saluta(" diego ");//passo il valore di $nome all'interno della funzione e richiamo la funzione
     echo saluta(" pippo ");
     echo saluta( 15 );
 
