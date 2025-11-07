@@ -19,7 +19,7 @@ if(isset($_POST['frase'])){
     for($i = 0; $i < strlen($frase); $i++){
 
         //verifica se un valore è presente nell array
-        if(in_array($frase[$i], $vocali)){  //prendo $i della frase e confronto con $vocali
+        if(in_array($frase[$i], $vocali)){  //prendo $i della frase e confronto con $vocali, "in_array (è contenuta/o)" ([i] di frase è contenuta nell'array? [i] sarebbero tutte le vocali che incontra in una parola)
 
             $contaNumeroVocali++; //incremento il numero di vocali trovate
         }
